@@ -4,7 +4,9 @@
   "description": "Generates a simple HTML/CSS portfolio page from inputs on the command line",
   "main": "index.js",
   "dependencies": {
-    "inquirer": "^8.1.5"
+    "inquirer": "^8.1.5",
+    "materialize-css": "^1.0.0-rc.2",
+    "util": "^0.12.4"
   },
   "devDependencies": {},
   "scripts": {
